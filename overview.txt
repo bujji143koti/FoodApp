@@ -1,0 +1,2 @@
+This is the food application file
+which consists of register page, login page, booking page and payment page.
